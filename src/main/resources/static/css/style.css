@@ -1,0 +1,41 @@
+
+.carousel {
+  position: relative;
+
+  display: -webkit-box;
+  display: flex;
+
+  max-width: 64rem;
+  min-height: 35rem;
+  margin: auto;
+
+ 
+
+  -webkit-box-pack: center;
+  justify-content: center;
+  
+   padding-top: 75px;
+}
+
+.body{
+	background-image: url(/imagens/fundo.az.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+}
+#fraseimagem{
+	color: white;
+}
+#navbar{
+	color: #e3f2fd;
+}
+#contatos{
+	padding-top: 75px;
+}
+
+#cardprojeto{
+	max-width: 64rem;
+  min-height: 35rem;
+  margin: auto;
+	 padding-top: 75px;
+}
